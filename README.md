@@ -1,5 +1,3 @@
-#Recrutamento
-
 <html><head><base href=""><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Investigador Místico: Elite Hacker Squad</title><style>
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;400;700&display=swap');
 
